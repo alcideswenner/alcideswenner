@@ -15,7 +15,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/Omm85dK9KKz9ZHVc6X2sFse7iNfhKG7Q0fWUALL6OLrMB3zTN9hxLSciqujvgHUFTox405ejKV4q9k9uVJIoDLcVzvCZyYiA5uGQiCkDVxYUxqbjOxr-C-G3rVW9ESpQWMGoTdc7HAwhSQMuWyxdhSLMsAo_iRC91KpXY56834cHO3Op2L_Zw3uLQfIyRmrGCKAQDZKPMrKRQd1hPrMX5MK-ucZm92bhuBlRni4a2XdUopDY41OVlDNkWv4uSSpwNz8RzDixVVWJUmoABA1si_OgyrPRtc9Ws5wfbsjYCuiR_J5OwL-k-qTcieP15mJ-HUDDshGtwP9PdhaUawmdKHrcy4dfflGo4-UsIr8S_Ky2-5C2dr_bngyza288ui3a2BQcd4T0luihyMfPd_uFra8D4MjG0Guyk-2ipvXSU1ndjWagI9diij2ypq6ulYT3GmCOPQhNUjQtzWsp-LZv_HaJpfkh7ynFlr3XikxQWmZ_kTK-ggSgfI4emOPJ24SX_dQfTLWjDecM3zHUpR4Awq-afygSa1ib3zHcuOayStltL7Oh8YnEgGDM0Nxq-1MTrY2NmFxoUaSr3feNB5juN7F7rWPQHS91zSRcxl86EIuKzNWY5FOygRfUZzUzuUgdOskOAtgBrbryZVPSHJyGLm-aL_XYWUnD7zcPiSKowEA9NSJeFhSnN6-7CK2SyZB-Cf-NMNEOU3WoowAz9ugFRfKh=w227-h464-no?authuser=0">
 </div>
   
   ##
